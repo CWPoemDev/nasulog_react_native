@@ -1,0 +1,3 @@
+rootProject.name = 'Nasulog2'
+
+include ':app'
